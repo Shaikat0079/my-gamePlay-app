@@ -1,52 +1,67 @@
 [
-  {
-    "id": 1,
-    "cover": "https://i.pinimg.com/736x/df/31/a3/df31a3be0fe4fa3e72a638a65514dafc.jpg",
-    "title": "Jujutsu Kaisen",
-    "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
-    "author": "Gege Akutami",
-    "posted_date": "2020-10-03",
-    "watching_time": "24 min per episode",
-    "genre": ["Action", "Supernatural"]
-  },
-  {
-    "id": 2,
-    "cover":"https://i.pinimg.com/736x/69/ba/e4/69bae4465eba65f767e3d0ce4128bdc1.jpg",
-    "title": "Bungou Stray Dogs",
-    "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
-    "author": "Kafka Asagiri",
-    "posted_date": "2016-04-07",
-    "watching_time": "23 min per episode",
-    "genre": ["Mystery", "Supernatural"]
-  },
-  {
-    "id": 3,
-    "cover": "https://i.pinimg.com/736x/67/31/b9/6731b95a00ef2cbdd75f8c346ccb6d24.jpg",
-    "title": "Death Note",
-    "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
-    "author": "Tsugumi Ohba & Takeshi Obata",
-    "posted_date": "2006-10-04",
-    "watching_time": "22 min per episode",
-    "genre": ["Thriller", "Psychological"]
-  },
-  {
-    "id": 4,
-    "cover":"https://i.pinimg.com/736x/b0/b0/62/b0b062e8e6616ae2ef9ac4cab3217205.jpg",
-    "title": "Bleach",
-    "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
-    "author": "Tite Kubo",
-    "posted_date": "2004-10-05",
-    "watching_time": "24 min per episode",
-    "genre": ["Action", "Fantasy"]
-  },
-  {
-    "id": 5,
-    "cover": "https://i.pinimg.com/736x/1a/99/5f/1a995fe748914fea6d453ec69ae82a0e.jpg",
-    "title": "Naruto",
-    "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
-    "author": "Masashi Kishimoto",
-    "posted_date": "2002-10-03",
-    "watching_time": "23 min per episode",
-    "genre": ["Adventure", "Martial Arts"]
-  }
+    {
+        "id": 1,
+        "cover": "https://i.pinimg.com/736x/df/31/a3/df31a3be0fe4fa3e72a638a65514dafc.jpg",
+        "title": "Jujutsu Kaisen",
+        "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
+        "author": "Gege Akutami",
+        "posted_date": "2020-10-03",
+        "watching_time": 24,
+        "genre": [
+            "Action",
+            "Supernatural"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.pinimg.com/736x/69/ba/e4/69bae4465eba65f767e3d0ce4128bdc1.jpg",
+        "title": "Bungou Stray Dogs",
+        "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
+        "author": "Kafka Asagiri",
+        "posted_date": "2016-04-07",
+        "watching_time": 23,
+        "genre": [
+            "Mystery",
+            "Supernatural"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.pinimg.com/736x/67/31/b9/6731b95a00ef2cbdd75f8c346ccb6d24.jpg",
+        "title": "Death Note",
+        "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
+        "author": "Tsugumi Ohba & Takeshi Obata",
+        "posted_date": "2006-10-04",
+        "watching_time": 22,
+        "genre": [
+            "Thriller",
+            "Psychological"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.pinimg.com/736x/b0/b0/62/b0b062e8e6616ae2ef9ac4cab3217205.jpg",
+        "title": "Bleach",
+        "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
+        "author": "Tite Kubo",
+        "posted_date": "2004-10-05",
+        "watching_time": 24,
+        "genre": [
+            "Action",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.pinimg.com/736x/1a/99/5f/1a995fe748914fea6d453ec69ae82a0e.jpg",
+        "title": "Naruto",
+        "author_img": "https://scontent.fadl6-1.fna.fbcdn.net/v/t39.30808-6/499964868_3936526913324189_5749932735350473861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yOZfckdF9IIQ7kNvwFcOiXT&_nc_oc=AdlgbVGTxVdRsyixuR3mPWnQkjMQEYqQht9DD4BfGb859Q9UXXO5r1xmw06vCMzuCeI&_nc_zt=23&_nc_ht=scontent.fadl6-1.fna&_nc_gid=YrFygq-6BNufnfL2E366SQ&oh=00_AfT1BYcPFlgVLWnWIROZNgqgkfFnuVuUWbhhxLlinG0GwQ&oe=687151FD",
+        "author": "Masashi Kishimoto",
+        "posted_date": "2002-10-03",
+        "watching_time": 23,
+        "genre": [
+            "Adventure",
+            "Martial Arts"
+        ]
+    }
 ]
